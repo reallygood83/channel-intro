@@ -12,4 +12,4 @@ python3 -m http.server 4173
 
 브라우저에서 http://127.0.0.1:4173 을 엽니다.
 
-글꼴은 [Pretendard](https://github.com/orioncactus/pretendard) (SIL Open Font License 1.1)입니다. 라이선스 전문은 `fonts/OFL.txt`에 있습니다.
+본문 글꼴은 [Pretendard](https://github.com/orioncactus/pretendard), 제목 글꼴은 [고운바탕](https://github.com/yangheeryu/Gowun-Batang)입니다. 둘 다 SIL Open Font License 1.1이며, 라이선스 전문은 `fonts/OFL.txt`와 `fonts/GowunBatang-OFL.txt`에 있습니다.
